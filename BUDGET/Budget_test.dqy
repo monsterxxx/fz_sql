@@ -1,0 +1,7 @@
+XLODBC
+1
+DSN=Budget_test;DBQ=C:\USERS\MONST_000\YANDEXDISK\FIGHTZONA\Budget.xlsx;DefaultDir=C:\USERS\MONST_000\YANDEXDISK\FIGHTZONA;DriverId=1046;FIL=excel 12.0;MaxBufferSize=2048;PageTimeout=5;
+SELECT `_xlcn#WorksheetConnection_Лист1A1E26`.Направление, `_xlcn#WorksheetConnection_Лист1A1E26`.Компания, `_xlcn#WorksheetConnection_Лист1A1E26`.Статья, `_xlcn#WorksheetConnection_Лист1A1E26`.Основание, `_xlcn#WorksheetConnection_Лист1A1E26`.Дата  FROM `C:\USERS\MONST_000\YANDEXDISK\FIGHTZONA\Budget.xlsx`.`_xlcn#WorksheetConnection_Лист1A1E26` `_xlcn#WorksheetConnection_Лист1A1E26`
+
+
+Направление	Компания	Статья	Основание	Дата
